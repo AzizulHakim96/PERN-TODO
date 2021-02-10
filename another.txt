@@ -1,1 +1,1 @@
-type another another
+type another another from newBranch 2
